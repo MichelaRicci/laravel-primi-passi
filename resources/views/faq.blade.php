@@ -10,7 +10,7 @@
     <h2>
         FAQ
     </h2>
-    
-    <a href="{{ route('home') }}">Home</a>
+
+    <a href="{{ route('home') }}">Back to Home</a>
 </body>
 </html>
